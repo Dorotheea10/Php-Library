@@ -1,0 +1,19 @@
+body {
+  background-color: whitesmoke;
+}
+
+.cover {
+  height: 44vh;
+  object-fit: contain;
+  padding-block: 0.5rem;
+}
+
+.detail-cont {
+  background-color: #0995;
+}
+
+.author {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
